@@ -1,4 +1,3 @@
-
 ---
 title: "Category"
 layout: categories
