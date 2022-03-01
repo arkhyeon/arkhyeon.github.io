@@ -18,7 +18,9 @@ last_modified_at: 2022-03-01
 # MVC, Repository
 
 1. [MVC, Repository](#MVC,-Repository)
+
 ```
+
 1. Controller
 사용자 요청 받고 Service 처리된 내용을 View에 넘김
 
@@ -41,6 +43,8 @@ DB를 사용해 데이터 조회, 조작 기능 전담 오브젝트
 6. Cycle
 View <> Controller <> Service <> DAO <> DB  
 View <> Controller <> Service <> Repository
+
 ```
+
 >[Repository와 Dao의 차이점. (bperhaps Tisotry)](https://bperhaps.tistory.com/entry/Repository%EC%99%80-Dao%EC%9D%98-%EC%B0%A8%EC%9D%B4%EC%A0%90)
 ---
