@@ -33,7 +33,7 @@ last_modified_at: 2022-03-03
   \> 버전 관리도 권장 버전으로 자동 설정 + Gradle 사용 시 더 짧은 dependency
  - configuration(설정)도 길다  
   \> 간단하게 application.properties에 설정가능  
-  \> application.yml(YAML Ain't Markup Language[YAML은 마크업 언어가 아니다])에 뎁스로 설정해 가독성 높임
+  \> application.yml(YAML Ain't Markup Language[YAML은 마크업 언어가 아니다])에 뎁스로 설정해 가독성 높임  
   ![YML](https://miro.medium.com/max/700/1*fDreWkSTvQwIXZnRKmaX6g.png)
  - 서버 구동 시간 절반 가까이 단축(Tomcat에서 간단하게 jetty로 바꾸기 가능)
  - 내장 서블릿 컨테이너 덕분에 jar 파일로 간단 배포
