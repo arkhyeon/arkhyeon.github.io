@@ -44,8 +44,8 @@ last_modified_at: 2022-03-07
  \- ConcurrentModificationException 방지  
  (Multi Thread 환경 다른 Thread가 순회하는 객체를 수정)
 
-3. StringBuilder
- \- 동기화 미지원으로 Multi Thread 비적합
+3. StringBuilder  
+ \- 동기화 미지원으로 Multi Thread 비적합  
  \- 동기화 고려하지 않는 만큼 Single Thread에서의 성능은 StringBuffer보다 좋다
 
 4. Multi Thread / Single Thread  
