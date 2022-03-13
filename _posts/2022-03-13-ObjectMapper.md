@@ -17,9 +17,9 @@ last_modified_at: 2022-03-13
 
 # Object Mapper
 
-1. Jackson(Java 라이브러리)
- Json > Java Object 변환
- Java Object > Json 변환
+1. Jackson(Java 라이브러리)  
+ Json > Java Object 변환  
+ Java Object > Json 변환 
  
 2. Json Node
  - Key : Value / 값 변경 불가
